@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Johannes Härtel on Martin Leinberger</title>
+    <link>/authors/johannes-h%C3%A4rtel/</link>
+    <description>Recent content in Johannes Härtel on Martin Leinberger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Martin Leinberger 2019</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/johannes-h%C3%A4rtel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Empirical study on the usage of graph query languages in open sourceJava projects</title>
+      <link>/publication/graph-query-analysis/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/graph-query-analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

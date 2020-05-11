@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philipp Seifer on Martin Leinberger</title>
+    <link>/authors/philipp-seifer/</link>
+    <description>Recent content in Philipp Seifer on Martin Leinberger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Martin Leinberger 2019</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/philipp-seifer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Empirical study on the usage of graph query languages in open sourceJava projects</title>
+      <link>/publication/graph-query-analysis/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/graph-query-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Query Integration With Reason</title>
+      <link>/publication/scaspa/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/scaspa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stefan Scheglmann on Martin Leinberger</title>
+    <link>/authors/stefan-scheglmann/</link>
+    <description>Recent content in Stefan Scheglmann on Martin Leinberger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Martin Leinberger 2019</copyright>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/stefan-scheglmann/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SEPAL: Schema Enhanced Programming for Linked Data</title>
+      <link>/publication/sepal/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/sepal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IDE Integrated RDF Exploration, Access and RDF-Based Code Typing with
+LITEQ</title>
+      <link>/publication/ide-integrated/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/ide-integrated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming the Semantic Web</title>
+      <link>/publication/programming-sem-web/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/programming-sem-web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Property-based typing with LITEQ</title>
+      <link>/publication/property-based-typing/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/property-based-typing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Web Application Development with LITEQ</title>
+      <link>/publication/liteq/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/liteq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

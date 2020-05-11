@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthias Thimm on Martin Leinberger</title>
+    <link>/authors/matthias-thimm/</link>
+    <description>Recent content in Matthias Thimm on Martin Leinberger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Martin Leinberger 2019</copyright>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/matthias-thimm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IDE Integrated RDF Exploration, Access and RDF-Based Code Typing with
+LITEQ</title>
+      <link>/publication/ide-integrated/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/ide-integrated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Property-based typing with LITEQ</title>
+      <link>/publication/property-based-typing/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/property-based-typing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Web Application Development with LITEQ</title>
+      <link>/publication/liteq/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/liteq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

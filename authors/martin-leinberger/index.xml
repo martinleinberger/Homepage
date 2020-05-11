@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martin Leinberger</title>
+    <link>/authors/martin-leinberger/</link>
+    <description>Recent content on Martin Leinberger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Martin Leinberger 2019</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/martin-leinberger/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Empirical study on the usage of graph query languages in open sourceJava projects</title>
+      <link>/publication/graph-query-analysis/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/graph-query-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Query Integration With Reason</title>
+      <link>/publication/scaspa/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/scaspa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Essence of Functional Programming on Semantic Data</title>
+      <link>/publication/lambda-dl/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/lambda-dl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Type-Safe Programming with OWL in Semantics4J</title>
+      <link>/publication/semantics-4-j/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/semantics-4-j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LambdaDL: Syntax and Semantics (Preliminary Report)</title>
+      <link>/publication/lambdadl-preliminary/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/lambdadl-preliminary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEPAL: Schema Enhanced Programming for Linked Data</title>
+      <link>/publication/sepal/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/sepal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of feature implementations across languages,technologies,
+and styles</title>
+      <link>/publication/feature-comparison/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/feature-comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Declarative Software Development: Distilled Tutorial</title>
+      <link>/publication/decl-devel-tutorial/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/decl-devel-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IDE Integrated RDF Exploration, Access and RDF-Based Code Typing with
+LITEQ</title>
+      <link>/publication/ide-integrated/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/ide-integrated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming the Semantic Web</title>
+      <link>/publication/programming-sem-web/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/programming-sem-web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Property-based typing with LITEQ</title>
+      <link>/publication/property-based-typing/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/property-based-typing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Web Application Development with LITEQ</title>
+      <link>/publication/liteq/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/liteq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linking Documentation and Source Code in a Software Chrestomathy</title>
+      <link>/publication/linking-code-doc/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/linking-code-doc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
